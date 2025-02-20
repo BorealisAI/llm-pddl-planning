@@ -1,0 +1,6 @@
+(define (problem gripper-3-4-3)
+    (:domain gripper-strips)
+    (:objects lgripper1 lgripper2 lgripper3 rgripper1 rgripper2 rgripper3 - gripper ball1 ball2 ball3 - obj robot1 robot2 robot3 - robot room1 room2 room3 room4 - room)
+    (:init )
+    (:goal (and ))
+)

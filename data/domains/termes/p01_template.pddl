@@ -1,0 +1,6 @@
+(define (problem termes-00038-0036-4x3x3-random_towers_4x3_3_1_3)
+    (:domain termes)
+    (:objects n0 n1 n2 n3 - numb pos-0-0 pos-0-1 pos-0-2 pos-1-0 pos-1-1 pos-1-2 pos-2-0 pos-2-1 pos-2-2 pos-3-0 pos-3-1 pos-3-2 - position)
+    (:init )
+    (:goal (and ))
+)

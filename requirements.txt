@@ -1,0 +1,17 @@
+openai==1.7.2
+wheel
+importlib-resources==6.1.1
+importlib-metadata==7.0.1
+pddl==0.4.0
+fast-downward-textworld==20.6.1
+backoff
+ml-collections
+ipdb
+networkx
+scipy
+matplotlib
+numpy
+coloredlogs
+tqdm
+wandb
+backoff
